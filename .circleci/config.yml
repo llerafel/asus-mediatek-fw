@@ -7,7 +7,7 @@ references:
     working_directory: ~/workdir
     environment:
       CHANGELOG_FILE: "/tmp/CHANGELOG"
-      PROFILE: "dsl-n10-c1"
+      PROFILE: "dsl-n14u"
       PROJECT_DIR: "/build"
 jobs:
   build:
